@@ -1,0 +1,18 @@
+{
+  "LightGBM_Demand_Forecaster": {
+    "R2_Score": 0.6442,
+    "WAPE_Percent": 15.91,
+    "RMSE_Units": 22.82,
+    "MAE_Units": 13.58
+  },
+  "RandomForest_Baseline": {
+    "R2_Score": 0.6511,
+    "WAPE_Percent": 15.65
+  },
+  "Inventory_Optimization": {
+    "Service_Level_Target": "95%",
+    "Calculated_Safety_Stock_Units": 241,
+    "Reorder_Point_ROP_Units": 882,
+    "Average_Daily_Sales": 99.78
+  }
+}
